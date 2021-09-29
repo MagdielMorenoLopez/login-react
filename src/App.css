@@ -36,3 +36,26 @@
     transform: rotate(360deg);
   }
 }
+
+
+.input-login {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    background-color: white;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 30px;
+    margin: 10px;
+}
+
+.button-login {
+  width: 50%;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  font-size: 16px;
+  padding: 12px ;
+  margin-top: 10px;
+  background-color: rgb(29, 187, 226);
+}
